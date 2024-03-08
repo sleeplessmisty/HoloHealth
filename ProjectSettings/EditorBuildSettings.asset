@@ -6,10 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Scene1.unity
-    guid: 31dcd27ac01ad4a4885fc0a7b016264c
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 9e2f4ed2020b8284eb0716a6a113ce92
+  - enabled: 1
+    path: Assets/Scenes/FinalScoreScene.unity
+    guid: d6ebd1b02af35b34f8d38fd0323e1bfe
   m_configObjects:
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4e261663bb016d54da82fdd11bf3c427, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8e2227dbcfece0a49a7f8b86880f254f, type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e618e83c14e7d3246a79c41404fa8dbf, type: 2}
-  m_UseUCBPForAssetBundles: 0
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 17eb4e3a1d84ca544a35f04754087b76, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 286d3411ab985ca44baa98ca14e0ac6b, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 99584e69a55fcd846b5fb9230c8fb3a0, type: 2}

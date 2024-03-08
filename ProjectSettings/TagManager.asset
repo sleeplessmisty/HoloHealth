@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - BlueScoreArea
+  - RedScoreArea
+  - ScoreArea
+  - RedCube
+  - BlueCube
   layers:
   - Default
   - TransparentFX
@@ -36,7 +41,7 @@ TagManager:
   - 
   - 
   - 
-  - Spatial Awareness
+  - 
   m_SortingLayers:
   - name: Default
     uniqueID: 0
