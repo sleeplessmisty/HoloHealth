@@ -17,7 +17,7 @@ public class TimerCountDown : MonoBehaviour
 
         if (timer <= 0)
         {
-            SceneManager.LoadScene("Scenes/Scene3");
+            SceneManager.LoadScene("Scenes/FinalScoreScene");
         }
     }
 }
